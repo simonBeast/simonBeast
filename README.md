@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Simon Aseged**
+# 👋 Hi, I’m **Simon Asegd Asahil**
 
 A passionate **Full-Stack Developer** and **Tech Entrepreneur**, I specialize in building scalable web and mobile solutions that drive real-world impact.
 
