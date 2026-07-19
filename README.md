@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Simon Asegd Asahil**
 
-Full-Stack Developer  specializing in scalable web solutions — from backend architecture to UI polish. I focus on clean code, thoughtful user experiences, and systems that perform under real-world load.
+Full-Stack Developer  specializing in scalable web solutions   from backend architecture to UI polish. I focus on clean code, thoughtful user experiences, and systems that perform under real-world load.
 
 ---
 
@@ -18,8 +18,6 @@ Stock management platform with full language localization and role-based access 
 🔹 **Custom News Platform**
 Dynamic news website with real-time content management, full admin capabilities, and secure RBAC. Built with **Vue.js**, **Express.js**, and **MySQL**.
 
-🔹 **Goal Tracker App**
-Flutter-powered mobile productivity app for tracking goals with deadlines, filters, and analytics, backed by **Hive DB**.
 
 *More projects on my pinned repositories below.*
 
@@ -36,22 +34,22 @@ Flutter-powered mobile productivity app for tracking goals with deadlines, filte
 
 ## 💼 Experience
 
-### **Full-Stack Developer** — *RaAz Transport S.C. & Chinet PLC*
+### **Full-Stack Developer**   *RaAz Transport S.C. & Chinet PLC*
 `2024 – Present`
 - Leading backend and frontend development for logistics and transport management systems used in daily operations.
 - Architecting high-performance backend services in NestJS to handle transport scheduling and tracking workflows.
 - Building responsive Vue.js interfaces that streamline day-to-day operational workflows for dispatch staff.
 
-### **Co-founder & Lead Developer** — *Omna Technologies PLC*
+### **Co-founder & Lead Developer**   *Omna Technologies PLC*
 `2023 – 2024` · concurrent with role above
 - Co-founded the company and served as lead technical developer, setting technical direction from day one.
 - Designed backend architectures using NestJS, Express.js, PostgreSQL, MongoDB, and cloud integrations.
 - Managed a development team and coordinated timelines across multiple client and in-house projects.
 
-### **Full-Stack Developer** — *Freelance*
+### **Full-Stack Developer**   *Freelance*
 - Building cross-platform applications and admin dashboards for clients in retail and productivity sectors.
 
-### **Backend Developer** — *TiLabs Systems, Mekelle*
+### **Backend Developer**   *TiLabs Systems, Mekelle*
 `2022 – 2023`
 - Developed RESTful APIs and backend logic supporting production Flutter mobile applications.
 - Contributed to internal tooling and backend infrastructure optimization.
